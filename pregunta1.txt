@@ -1,0 +1,7 @@
+¿Cómo puede utilizarse la tomografía sísmica para identificar variaciones en la estructura y composición del subsuelo?
+
+Respuesta:
+La tomografía sísmica mide los tiempos de viaje de las ondas sísmicas (P y S) a través del subsuelo. 
+
+Estructura: Las anomalías de alta velocidad representan rocas más densas y compactas, mientras que las de baja velocidad indican zonas de falla, fracturamiento o menor densidad.
+Composición y fluidos: La relación entre la velocidad de onda P y S (Vp/Vs) permite detectar cambios en la mineralogía o la presencia de fluidos (agua, gas o magma).
