@@ -1,0 +1,6 @@
+¿Qué métodos geofísicos permiten determinar con mayor precisión la profundidad y extensión de un acuífero?
+
+Respuesta:
+Tomografía de Resistividad Eléctrica (TRE) y Sondeos Eléctricos Verticales (SEV): Miden la resistividad del subsuelo para ubicar el nivel freático y el espesor del acuífero.
+Electromagnetismo en el Dominio del Tiempo (TDEM): Útil para acuíferos profundos y para delimitar la intrusión salina.
+Resonancia Magnética de Superficie (RMS): Detecta directamente la presencia de agua libre en los poros y estima la permeabilidad.
